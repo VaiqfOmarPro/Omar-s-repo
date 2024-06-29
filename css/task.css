@@ -1,0 +1,26 @@
+img{
+    height: 200px;
+    width: 300px;
+    object-fit: cover;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+*{
+    font-family: "Space Grotesk", sans-serif;
+}
+h2{
+    margin-left: 150px;
+}
+h4{
+    margin-left: 110px;
+}
+.mew{
+    height: 200px;
+    width: 300px;
+    margin-left: 450px;
+    
+}
+p{
+    background-color: orange;
+}
+
